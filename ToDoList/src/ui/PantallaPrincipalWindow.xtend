@@ -1,3 +1,7 @@
+package ui
+
+import model.Tarea
+import model.TareaAppModel
 import org.uqbar.arena.bindings.NotNullObservable
 import org.uqbar.arena.layout.ColumnLayout
 import org.uqbar.arena.layout.HorizontalLayout

@@ -1,3 +1,7 @@
+package ui
+
+import model.Tarea
+import model.TareaAppModel
 import org.uqbar.arena.aop.windows.TransactionalDialog
 import org.uqbar.arena.layout.ColumnLayout
 import org.uqbar.arena.widgets.Button
